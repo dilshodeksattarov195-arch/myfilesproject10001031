@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartponnect",
+        "uuid": 5027156,
+        "checksum": "3ngxh"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
